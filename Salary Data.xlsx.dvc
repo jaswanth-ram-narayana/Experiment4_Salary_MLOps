@@ -1,0 +1,5 @@
+outs:
+- md5: b3d99113b9fef00c3572813b9ac59588
+  size: 16382
+  hash: md5
+  path: Salary Data.xlsx
