@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/HP/Desktop/Experiment4_Salary_MLOps/mlruns/1/models/m-dabc4ee7f9084baf9199b8a7c5cc8bc8/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: pickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.15.2
+model_id: m-dabc4ee7f9084baf9199b8a7c5cc8bc8
+model_size_bytes: 1630813
+model_uuid: m-dabc4ee7f9084baf9199b8a7c5cc8bc8
+prompts: null
+run_id: 3dc5501ee1834420a75e5aeda8fdc73d
+utc_time_created: '2026-08-31 15:01:58.667929'
