@@ -9,5 +9,3 @@ shap
 streamlit
 requests
 matplotlib
-pytest
-app
